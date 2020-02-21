@@ -3,6 +3,6 @@
 
 ## **v1.0** ##
 
-*源程序路径*：Source文件夹
+*Source path*：Source folder
 
-*病毒可执行文件路径* **（极度危险）** ：Files文件夹【运行setup.exe，木马文件在image.jpg中】
+*Virus .EXE path* **（EXTREMELY DANGEROUS）** ：Files folder [ Run setup.exe，Trojan file in image.jpg]
